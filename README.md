@@ -42,7 +42,6 @@ The CI/CD pipeline is fully automated and includes:
 
 This ensures **consistent, repeatable, and reliable deployments** without manual intervention.
 
-run url:
 http://3.0.33.191/
 
 
@@ -51,4 +50,4 @@ http://3.0.33.191/
 ## 🌍 Live Deployment
 The application is successfully deployed and publicly accessible:
 
-🔗 **Live URL:**  
+🔗 **Live URL:** http://3.0.33.191/
